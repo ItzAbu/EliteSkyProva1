@@ -7,6 +7,14 @@ commands:
   reload:
     description: Reload the plugin
     usage: /<command>
+  Axes:
+    description: Give the player an axe
+    usage: /<command>
+    aliases: [axe]
+  AxeSave:
+    description: Save the axe
+    usage: /<command>
+    aliases: [axesave]
 
 
 

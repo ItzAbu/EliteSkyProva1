@@ -11,6 +11,6 @@ public class Reload implements CommandExecutor {
     @Override
     public boolean onCommand(CommandSender sender,  Command command, String s,  String[] label) {
         CustomConfig.reload();
-        return false;
+        return true;
     }
 }

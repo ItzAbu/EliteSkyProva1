@@ -1,5 +1,10 @@
 org\itzabu\eliteskyprova1\utils\CustomConfig.class
+org\itzabu\eliteskyprova1\commands\GiveAxe.class
 org\itzabu\eliteskyprova1\listeners\AntiExplo.class
+org\itzabu\eliteskyprova1\listeners\ClaimListeners.class
+org\itzabu\eliteskyprova1\listeners\AxeListener.class
+org\itzabu\eliteskyprova1\commands\Save.class
+org\itzabu\eliteskyprova1\utils\items\SelectorAxe.class
 org\itzabu\eliteskyprova1\EliteSkyProva1.class
 org\itzabu\eliteskyprova1\commands\Reload.class
 org\itzabu\eliteskyprova1\utils\ChatColor.class
