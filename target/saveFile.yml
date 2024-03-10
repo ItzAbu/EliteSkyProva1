@@ -1,0 +1,14 @@
+Claim:
+  '0':
+    coords:
+    - world
+    - '-55'
+    - '96'
+    - '-55'
+    - '-52'
+    - '96'
+    - '-57'
+    Anti-Explo:
+      TNT: true
+      Creeper: true
+Mondi: 1
